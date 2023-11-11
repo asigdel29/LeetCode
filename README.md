@@ -1,2 +1,4 @@
 # LeetCode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+Blind 75 LeetCode Solutions
+(Gonna Attempt one everyday, mostly in Java)
+ - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
